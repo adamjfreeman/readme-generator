@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "gerating a readme file using my command prompt",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamjfreeman/readme-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "ISC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamjfreeman/readme-generator/issues"
+  },
+  "homepage": "https://github.com/adamjfreeman/readme-generator#readme"
+}
