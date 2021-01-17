@@ -10,7 +10,7 @@ A node.js application that uses user input from inquirer to populate a README.md
   
 
   
-The full movie file showing functionality of the application can be found [here](./src/dewody-readme-generator-movie.webm)  
+The full movie file showing functionality of the application can be found - https://github.com/adamjfreeman/readme-generator/blob/main/Node%20Video.mp4  
   
 ## User Story
   
